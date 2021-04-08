@@ -1,10 +1,6 @@
 Marketing
 
- * Logo images
- * Letterhead
- * Document Templates
- * Font files
- * Style Sheets
+ * Branding guidelines
  * Advertising
  * Pricing
  * Products
