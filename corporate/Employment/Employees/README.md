@@ -1,5 +1,7 @@
 Employment/Employees
 
  * 1 folder per employee
- * Employment Agreements
- * Related docs
+ * W4
+ * Offer letter
+ * Reviews
+
